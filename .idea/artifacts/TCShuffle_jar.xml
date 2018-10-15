@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TCShuffle:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TCShuffle_jar</output-path>
+    <root id="archive" name="TCShuffle.jar">
+      <element id="module-output" name="TCShuffle" />
+      <element id="extracted-dir" path="/opt/processing-ide/core/library/jogl-all.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/opt/processing-ide/core/library/core.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/opt/processing-ide/core/library/jogl-all-natives-linux-amd64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/opt/processing-ide/core/library/gluegen-rt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/opt/processing-ide/core/library/gluegen-rt-natives-linux-amd64.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
